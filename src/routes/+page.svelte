@@ -3,7 +3,7 @@
 </script>
 
 <h1>David Carlson Berg</h1>
-<p>Engineering Manager / Web Engineer</p>
+<h2>Engineering Manager | Staff Web Engineer</h2>
 
 <ul>
     {#each jobs as job}
