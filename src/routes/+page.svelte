@@ -7,6 +7,6 @@
 
 <ul>
     {#each jobs as job}
-        <li>{job?.company}</li>
+        <li>{job?.company} - {job?.title}</li>
     {/each}
 </ul>
